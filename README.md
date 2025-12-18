@@ -34,7 +34,7 @@ To customize the keymap:
 
 ## Parts List
 
-- The case is 3D printable comprised of 3 pieces, designed in Fusion 360, and printed on a BambuLabs P1S printer. There are no screws, as everything is press-fit. See [./Code/](./Code/) for the STL files
+- The case is 3D printable comprised of 3 pieces, designed in Fusion 360, and printed on a BambuLabs P1S printer. They are printed in various colors of PLA filament. There are no screws, as everything is press-fit. See [./Code/](./Code/) for the STL files
 - The PCB was designed in KiCad, and manufactured by PCBWay.com. See [./KiCad/](./KiCad/) for the KiCad files.
 - [Linear MX Switches](https://www.amazon.com/dp/B0D7QW8SQ9?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 - [Blank, Rainbow Mixed Keycaps](https://www.amazon.com/dp/B0CQ2WGP2N?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
