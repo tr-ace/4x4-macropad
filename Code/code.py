@@ -1,3 +1,5 @@
+# https://github.com/tr-ace/4x4-macropad
+
 import board
 
 from kmk.kmk_keyboard import KMKKeyboard
