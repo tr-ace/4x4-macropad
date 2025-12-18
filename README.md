@@ -1,4 +1,4 @@
-# Macropad Gift - Happy Holidays!
+# 4x4 Macropad
 
 The Macropad is a 16-key keyboard with assignable keys via Python and the KMK library. The microcontroller uses the CircuitPython firmware.
 
