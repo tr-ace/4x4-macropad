@@ -2,6 +2,8 @@
 
 The Macropad is a 16-key keyboard with assignable keys via Python and the KMK library. The microcontroller uses the CircuitPython firmware.
 
+![Macropad](./images/single.jpg)
+
 ## Usage
 
 Plug the Macropad into your PC with a USB C cable. Windows Explorer may open, since the CircuitPython firmware on the microcontroller may be detected as a mass storage device. You can close Windows Explorer, unless you'd like to customize the keymap.
