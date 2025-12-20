@@ -17,7 +17,7 @@ Plug the Macropad into your PC with a USB C cable. Windows Explorer may open, si
 | --------- | ------------------------------------ | ------------------------------- | ----------------------------------- | ----------------------------- |
 | **Row 1** | Ctrl + A<br>(Select All)             | Ctrl + C<br>(Copy)              | Ctrl + V<br>(Paste)                 | Ctrl + S<br>(Save)            |
 | **Row 2** | Ctrl + Shift + M<br>(Teams Mute Mic) | Mute Speakers                   | Volume Down                         | Volume Up                     |
-| **Row 3** | Win + M<br>(Open Mail)               | Win + E<br>(Open File Explorer) | Terminal Macro                      | Calculator Macro              |
+| **Row 3** | Win + M<br>(Open Mail)               | Win + E<br>(Open File Explorer) | Ctrl + F<br>(Find)                  | Ctrl + H<br>(Replace)         |
 | **Row 4** | Ctrl + Z<br>(Undo)                   | Ctrl + Y<br>(Redo)              | Win + Shift + S <br>(Snipping Tool) | Win + Tab<br>(Switch Windows) |
 
 ## Customizing the Keymap
@@ -27,7 +27,7 @@ To customize the keymap:
 1. Plug in the Macropad via USB C cable
 2. Open the CIRCUITPY drive inside of Windows Explorer
 3. Open code.py inside of any IDE or Notepad.
-4. Scroll down to this section where `keyboard.keymap` is defined
+4. Scroll down to this section where `keymap` list is defined
 5. Change the key values assigned to each key, as needed
 6. Save the updated code.py file
 7. You might need to unplug, and replug the Macropad back into the PC for the changes to be detected
